@@ -60,6 +60,13 @@ def max_marks(list1):
 ## Output:
 ![Screenshot from 2023-01-25 22-44-33](https://user-images.githubusercontent.com/118678482/214633862-ccfc30d7-97ab-4f6b-9fa5-3b1b11aeb0b9.png)
 
+![Screenshot from 2023-01-25 22-44-33](https://user-images.githubusercontent.com/118678482/214634270-bc3d23cb-8d0d-4e27-b41e-11489323aecf.png)
+
+
+![Screenshot from 2023-01-25 22-44-33](https://user-images.githubusercontent.com/118678482/214634333-1bf54db3-c204-4239-88d7-4f735cd98913.png)
+
+
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
